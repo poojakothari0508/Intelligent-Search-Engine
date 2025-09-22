@@ -1,0 +1,1 @@
+Distributed systems enable multiple computers to work together efficiently.
